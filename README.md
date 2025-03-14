@@ -29,6 +29,3 @@ why? : i have some experience in c, java, python programming languages and i fin
 
 - Computer Networking
 
-💬 Ask me about
--
-- i'm no expert but i would love to hear any questions related to DSA, Networking or Go.

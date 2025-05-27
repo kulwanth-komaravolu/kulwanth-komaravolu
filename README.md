@@ -19,12 +19,5 @@ Here are some ideas to get you started:
 -
 - Linux
 - Go programming language
-
-video link: https://youtu.be/G3e-cpL7ofc?si=HyYnFdR5S9-gSkcd
-
-- Go programming language
-
-why? : i have some experience in c, java, python programming languages and i find go programming language really fun! with great niche cases
-
 - Computer Networking
 

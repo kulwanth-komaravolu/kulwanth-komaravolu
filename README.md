@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning
 -
-- Recreating youtube to learn HTML/CSS from
-
-youtube channel: youtube.com/@SuperSimpleDev
+- Linux
+- Go programming language
 
 video link: https://youtu.be/G3e-cpL7ofc?si=HyYnFdR5S9-gSkcd
 

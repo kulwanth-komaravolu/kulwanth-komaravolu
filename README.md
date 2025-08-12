@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 -
 - Linux
 - Go programming language
-- Computer Networking
 

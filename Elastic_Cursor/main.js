@@ -36,7 +36,7 @@ function tick() {
     prevMouse.x = presMouse.x;
     prevMouse.y = presMouse.y;
 
-    // apply style
+    // apply all styles to circleElement
     circleElement.style.transform = `${circleTranslate} ${circleRotate} ${circleScale}`; 
 
     window.requestAnimationFrame(tick);
